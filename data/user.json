@@ -1,0 +1,29 @@
+[
+  {
+    "user_id": 1,
+    "liked_items": [
+      "Inception",
+      "Superbad"
+    ]
+  },
+  {
+    "user_id": 2,
+    "liked_items": [
+      "The Hangover",
+      "The Dark Knight"
+    ]
+  },
+  {
+    "user_id": 3,
+    "liked_items": [
+      "Interstellar",
+      "The Green Mile"
+    ]
+  },
+  {
+    "user_id": 4,
+    "liked_items": [
+      "Inception"
+    ]
+  }
+]
